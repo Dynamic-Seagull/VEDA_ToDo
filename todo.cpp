@@ -3,13 +3,11 @@
 todo::todo(QWidget *parent) : QWidget(parent)
 {
     m_list.clear();
-    c_list.clear();
 }
 
 todo::~todo()
 {
     m_list.clear();
-    c_list.clear();
 }
 
 void todo::setName(QString s)
@@ -49,7 +47,7 @@ void todo::load(QString name)
     else
     {
         // qDebug() << "파일이 비어있어 불러오기를 실패하였습니다.";
-        QMessageBox::information(this, "알림", "파일이 비어있어 불러오기에 실패하였습니다.", QMessageBox::Yes);
+        QMessageBox::information(this, "알림", "파일이 비어있습니다.", QMessageBox::Yes);
     }
 
 }
