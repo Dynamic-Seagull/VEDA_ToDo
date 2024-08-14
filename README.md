@@ -31,7 +31,19 @@
 - 창을 닫을 때 자동으로 저장됩니다.
 - 모든 데이터는 텍스트 파일(`.txt`)로 저장됩니다.
 
+## 스크린샷
 
- 
+기능 확인:
 
+### 1. 로그인 화면
+![1](https://github.com/user-attachments/assets/48b5d227-d266-4742-a4ee-b4723f031094)
 
+### 2. 할 일 추가 화면
+![2](https://github.com/user-attachments/assets/3d8a508a-7edc-4c32-94dd-3dc8ac0b5f7f) ![3](https://github.com/user-attachments/assets/de1c9245-e061-441c-9066-f3b9b3119b96)
+
+### 3. 할 일 저장 상태
+![4](https://github.com/user-attachments/assets/254c3e54-b677-48d5-b7cb-1c295c75e014)
+
+---
+
+**문의 : cwoon1211@gmail.com**  
