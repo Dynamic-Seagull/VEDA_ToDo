@@ -25,7 +25,6 @@ class todo : public QWidget
 private:
     QString name;
     QVector<QString> m_list;
-    QVector<qint32> c_list;
 
 public:
     todo(QWidget *parent = nullptr);
