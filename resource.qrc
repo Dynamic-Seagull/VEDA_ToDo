@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resource/add.png</file>
+        <file>resource/delete.png</file>
+        <file>resource/edit.png</file>
+        <file>resource/false.png</file>
+        <file>resource/img.gif</file>
+        <file>resource/true.png</file>
+        <file>resource/undo.png</file>
+    </qresource>
+</RCC>
