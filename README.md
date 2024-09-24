@@ -7,6 +7,7 @@
 ---
 
 ## 기능 설명
+- 관련 링크 : https://dynamicseagull.tistory.com/100
 
 ### 1. 로그인: 이름 입력
 - **처음 사용자일 경우:**  
