@@ -31,8 +31,6 @@ public:
     TodoWindow(QWidget *parent = nullptr);
     ~TodoWindow();
     void init();
-
-    // 추가
     todo* User;
     void mkDir();
 
@@ -46,13 +44,13 @@ private:
     qint32 naming = 0;
     QString inputName;
     QVector<QWidget*> newLines;
-    void closeEvent(QCloseEvent * event);
     bool first; // 첫 로그인 확인
 
     // func
     void mkMemo(QString line, int check);
     void setMargin();
     void todo_clear();
+    void closeEvent(QCloseEvent * event);
 
 public slots:
     void createMemo();
